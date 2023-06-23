@@ -1,0 +1,72 @@
+[
+    {
+       
+        "name": "Usha Khatri",
+        "email": "usha_khatri@runolfsdottir.test",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+       
+        "name": "Fr. Jagadish Chattopadhyay",
+        "email": "jagadish_fr_chattopadhyay@kshlerin-runte.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+      
+        "name": "Mandaakin Panicker",
+        "email": "mandaakin_panicker@stamm.example",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+      
+        "name": "Malti Achari",
+        "email": "malti_achari@muller.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+       
+        "name": "Fr. Mina Mukhopadhyay",
+        "email": "mukhopadhyay_fr_mina@zemlak.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+       
+        "name": "Manik Ganaka",
+        "email": "manik_ganaka@witting.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        
+        "name": "Atreyi Kapoor",
+        "email": "kapoor_atreyi@schmidt.example",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        
+        "name": "Dhananjay Achari",
+        "email": "dhananjay_achari@leuschke-konopelski.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        
+        "name": "Rakesh Marar V",
+        "email": "v_rakesh_marar@mayert.example",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+       
+        "name": "Chandra Pothuvaal",
+        "email": "chandra_pothuvaal@bogisich.test",
+        "gender": "female",
+        "status": "active"
+    }
+]
